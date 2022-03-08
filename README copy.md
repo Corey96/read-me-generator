@@ -49,9 +49,9 @@ THEN I am taken to the corresponding section of the README
 
 Here are some guidelines to help you get started:
 
-* Create a `.gitignore` file and include `node_modules/` and `.DS_Store/` so that your `node_modules` directory isn't tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
+* Create a `.gitignore` file and include `node_modules/` and `.DS_Store/` so that your `node_modules` directory isn't tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies. DONEEEE
 
-* Make sure that your repo includes a `package.json` with the required dependencies. You can create one by running `npm init` when you first set up the project, before installing any dependencies.
+* Make sure that your repo includes a `package.json` with the required dependencies. You can create one by running `npm init` when you first set up the project, before installing any dependencies. DONEEEEEE
 
 * Include a video of the typical user flow through your application. This includes views of the prompts and the responses after their selection.
 
@@ -81,11 +81,11 @@ This homework is graded based on the following criteria:
 
 * Satisfies all of the above acceptance criteria plus the following:
 
-	* Uses the [Inquirer package](https://www.npmjs.com/package/inquirer).
+	* Uses the [Inquirer package](https://www.npmjs.com/package/inquirer). DONEEEE
 
 ### Repository Quality: 13%
 
-* Repository has a unique name.
+* Repository has a unique name. DONEEEE
 
 * Repository follows best practices for file structure and naming conventions.
 
